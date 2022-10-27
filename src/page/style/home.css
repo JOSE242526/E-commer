@@ -1,0 +1,40 @@
+.home__container {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translateX(10%);
+
+}
+
+.home__container-similar {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title__similar-product {
+        text-align: center;
+        font-size: 2rem;
+        margin: 10px;
+        margin-top: -320px;
+ 
+}
+
+.home aside {
+    display: flow-root;
+    padding: 0px 20px 20px;
+    max-width: 220px;
+    position: absolute;
+    z-index: 100;
+    margin-top: -1%;
+}

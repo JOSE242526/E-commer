@@ -1,0 +1,48 @@
+.card__loggid {
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+}
+.loggid {
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    border-radius: 10px;
+    max-width: 400px;
+    padding: 25px;
+    width: 100%;
+}
+
+
+.welcom__loggid {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.loggid__email {
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 3px;
+    display: block;
+    margin-top: 4px;
+    padding: 6px 8px;
+    width: 100%;
+}
+.loggid__password {
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 3px;
+    display: block;
+    margin-top: 4px;
+    padding: 6px 8px;
+    width: 100%;
+}
+
+.loggid__btn {
+    background: #f85555;
+    color: #fff;
+    margin: 10px 0 25px;
+    padding: 9px;
+    width: 100%;
+}   
