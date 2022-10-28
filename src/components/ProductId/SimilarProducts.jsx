@@ -1,6 +1,6 @@
 import axios from 'axios'
 import React, { useEffect, useState } from 'react'
-import CardProduct from '../home/CardProduct'
+import CardProduct from '../home/cardProduct'
 
 
 const SimilarProducts = ({product}) => {
